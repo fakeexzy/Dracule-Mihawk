@@ -12,7 +12,7 @@ const chalk = require('chalk')
 global.zenzkey = '507bfa6b23' //Register Atau Beli Di zenzapis.xyz
 
 //===> SESUAIKAN DENGAN KEBUTUHAN MU
-global.ownerNumber = ['6282301133993','6285820236885','6285210474324','6285777663825','6281545125861','6285710383173','6283160216270','6283861773929','62895701603895','6289675602174','6285727942023'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
+global.ownerNumber = ['6282301133993','6285108173679','6285820236885','6285210474324','6285777663825','6281545125861','6285710383173','6283160216270','6283861773929','62895701603895','6289675602174','6285727942023'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
 global.Rowner = '6285108173679' //Owner Utama
 global.ownerName = 'EXZY CUY🗿' //Ganti Jadi Namamu
 global.packname = 'EXZY PUNYA' //Ganti Jadi Nama Botmu
